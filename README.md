@@ -29,7 +29,7 @@ Target Variable: - 0 → Not Potable - 1 → Potable
 
 Dataset: Water Potability Dataset
 
--   \~3,276 samples
+-   \~10k+ samples
 -   9 numerical features
 -   1 binary target variable
 
